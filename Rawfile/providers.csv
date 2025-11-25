@@ -1,0 +1,251 @@
+provider_id,provider_name,specialty,npi,address,phone,avg_rating,license_state
+PR2000,Dr. Noah Singh,Orthopedics,4101948739,"822 Clinic Rd, City24",+91-9351936476,4.3,DL
+PR2001,Dr. Arjun Johnson,Cardiology,3812909739,"532 Health Ave, City93",,3.0,
+PR2002,Dr. Vikram Johnson,Oncology,6279951345,"821 Health Ave, City96",+91-7423790732,3.5,GJ
+PR2003,Dr. Priya Gonzalez,Cardiology,3082629429,"161 Clinic Rd, City78",+91-6104128742,3.1,WB
+PR2004,,Cardiology,8662451920,"672 Clinic Rd, City34",+91-9514554060,4.4,DL
+PR2005,Dr. Vikram Smith,Cardiology,9907290768,"740 Medical Park, City196",+91-9146659810,3.5,KA
+PR2006,Dr. Priya Johnson,,4946965703,"98 Medical Park, City151",+91-9404277003,3.5,WB
+PR2007,Dr. Noah Chen,Neurology,6685363026,"525 Medical Park, City6",+91-7297741454,3.2,MH
+PR2008,Dr. Mary Chen,Dermatology,7769732531,"386 Clinic Rd, City110",+91-6399699943,3.1,TN
+PR2009,Dr. Liam Chen,Oncology,3175802532,"392 Health Ave, City128",+91-9124835466,3.5,DL
+PR2010,Dr. Arjun Johnson,Dermatology,,"230 Medical Park, City7",+91-7706599308,4.4,TN
+PR2011,Dr. Carlos Nguyen,Radiology,6629026320,,+91-6409692785,3.9,MH
+PR2012,Dr. Vikram Nguyen,Radiology,2073608945,"145 Clinic Rd, City158",+91-9599484943,3.7,UP
+PR2013,Dr. Vikram Brown,Neurology,1998278217,"786 Clinic Rd, City65",+91-7768919156,,DL
+PR2014,Dr. Vikram Patel,Cardiology,5318897881,"707 Health Ave, City194",+91-8415530388,4.5,GJ
+PR2015,Dr. Ola Singh,Dermatology,6307460038,"473 Medical Park, City124",+91-8209464812,3.9,UP
+PR2016,Dr. Priya Smith,Cardiology,5627846358,"131 Health Ave, City42",,,MH
+PR2017,Dr. Anita Nguyen,Neurology,5174348618,,+91-6733245783,4.1,GJ
+PR2018,Dr. Ola Patel,Dermatology,7090896471,,+91-7870369767,5.0,UP
+PR2019,Dr. Sara Chen,Radiology,9115534388,,,,UP
+PR2020,Dr. Anita Brown,Dermatology,7891351401,,+91-7418100147,4.8,
+PR2021,,,,,+91-6769768868,,KA
+PR2022,Dr. John Chen,Dermatology,1806055547,"711 Health Ave, City138",+91-7969644436,3.3,KA
+PR2023,Dr. Noah Nguyen,,,"359 Medical Park, City144",+91-9793930101,3.1,UP
+PR2024,Dr. John Gonzalez,General Practice,8427386231,"377 Medical Park, City197",+91-7732024395,4.8,
+PR2025,Dr. Liam Gonzalez,Cardiology,3545365683,"106 Medical Park, City56",,2.9,GJ
+PR2026,Dr. Mary Patel,Neurology,,"590 Medical Park, City155",+91-7190725988,4.9,
+PR2027,Dr. Vikram Brown,Dermatology,9200079312,"215 Health Ave, City1",+91-9364526708,3.1,
+PR2028,Dr. Mary Brown,Orthopedics,1615611973,"487 Health Ave, City83",+91-6334094448,4.7,KA
+PR2029,,Neurology,7183417249,"681 Clinic Rd, City84",+91-7299478089,3.8,KA
+PR2030,Dr. Anita Johnson,Oncology,7332834814,"320 Medical Park, City82",+91-8279276904,2.7,GJ
+PR2031,,Orthopedics,,"729 Health Ave, City112",+91-8407268465,3.6,UP
+PR2032,Dr. Arjun Chen,Dermatology,9159416252,"668 Clinic Rd, City46",+91-6108643570,4.7,
+PR2033,Dr. Ola Singh,,2821400851,"632 Medical Park, City49",+91-7642642085,3.4,UP
+PR2034,Dr. John Gonzalez,Oncology,1837040208,"601 Clinic Rd, City85",+91-6404192842,4.8,DL
+PR2035,Dr. Liam Kumar,Radiology,2172645601,"663 Clinic Rd, City165",+91-8056150620,3.5,UP
+PR2036,Dr. Priya Chen,General Practice,3685515992,"995 Medical Park, City8",+91-9707352704,4.3,TN
+PR2037,Dr. Noah Nguyen,Oncology,6041307910,"768 Medical Park, City193",+91-8343279772,4.5,KA
+PR2038,Dr. Carlos Kumar,Radiology,4161938464,"892 Health Ave, City22",+91-7802050514,,KA
+PR2039,Dr. John Nguyen,Dermatology,4051964572,"322 Health Ave, City140",+91-7191759631,,
+PR2040,Dr. Asha Brown,Dermatology,5366583537,"858 Medical Park, City82",+91-9855748782,4.3,
+PR2041,Dr. Priya Singh,Radiology,8148953034,,+91-6264069218,2.7,WB
+PR2042,Dr. Arjun Johnson,Orthopedics,8425814077,"86 Health Ave, City114",+91-6191162242,3.2,MH
+PR2043,Dr. Priya Johnson,Oncology,5308815905,"281 Medical Park, City90",+91-6505580254,3.4,GJ
+PR2044,Dr. Vikram Smith,,9290458773,"91 Health Ave, City24",+91-6783835681,4.3,MH
+PR2045,Dr. Carlos Brown,,5147931679,"786 Health Ave, City3",,4.1,
+PR2046,,General Practice,5865058976,"55 Clinic Rd, City181",+91-7232984424,2.9,MH
+PR2047,Dr. Noah Singh,Oncology,6103474676,"905 Health Ave, City46",+91-7266724774,3.1,TN
+PR2048,Dr. Wei Smith,Oncology,6856674089,"791 Medical Park, City134",+91-7931331439,,UP
+PR2049,Dr. Vikram Patel,Cardiology,7808480880,"160 Medical Park, City146",+91-6904789816,5.0,TN
+PR2050,,Orthopedics,2155131949,"526 Health Ave, City67",+91-6937397755,3.7,KA
+PR2051,Dr. Sara Smith,Radiology,6095658763,"144 Clinic Rd, City151",+91-7387235610,3.4,TN
+PR2052,Dr. Asha Brown,Cardiology,4869868882,"163 Clinic Rd, City122",+91-7437579139,3.3,KA
+PR2053,Dr. Raj Singh,,5993954519,"560 Health Ave, City193",+91-6093415393,3.6,GJ
+PR2054,Dr. Ola Brown,,8277815372,"749 Clinic Rd, City122",+91-9582416803,3.1,UP
+PR2055,Dr. Carlos Brown,,7017906777,,+91-9869187960,4.8,KA
+PR2056,Dr. Fatima Garcia,Neurology,7775259340,"608 Health Ave, City42",+91-8199900930,2.9,DL
+PR2057,Dr. Sara Brown,Dermatology,4229171556,,+91-9386879868,4.9,KA
+PR2058,Dr. Wei Patel,Neurology,6781465992,,+91-6003621550,4.1,MH
+PR2059,Dr. Sara Patel,,2320817370,,+91-7874963179,2.7,MH
+PR2060,Dr. Raj Johnson,,8626180528,"6 Clinic Rd, City41",+91-7480526205,2.7,GJ
+PR2061,,Dermatology,4938269146,"397 Health Ave, City82",+91-9277250274,4.8,TN
+PR2062,Dr. Arjun Singh,General Practice,5602730904,"501 Medical Park, City190",+91-8518693203,2.6,GJ
+PR2063,Dr. Raj Gonzalez,General Practice,6850949950,"514 Health Ave, City157",+91-8573416362,4.4,KA
+PR2064,,Orthopedics,3147267582,"46 Health Ave, City78",+91-7870031479,2.7,TN
+PR2065,,Oncology,5942423191,"319 Clinic Rd, City173",+91-9527349327,3.7,DL
+PR2066,,Orthopedics,,"826 Health Ave, City89",+91-8946629399,4.3,UP
+PR2067,Dr. Vikram Garcia,Neurology,4465676206,"165 Clinic Rd, City33",+91-8468241289,3.8,
+PR2068,Dr. Ola Kumar,Oncology,,"433 Health Ave, City78",+91-7825280355,,UP
+PR2069,Dr. Mary Brown,Neurology,2567069461,"805 Health Ave, City109",+91-8283684038,4.4,WB
+PR2070,Dr. Asha Smith,Orthopedics,5324846219,"971 Medical Park, City152",+91-7107399563,3.0,WB
+PR2071,Dr. Noah Nguyen,Oncology,5503460465,"289 Health Ave, City32",+91-9727588028,3.7,DL
+PR2072,Dr. John Brown,Dermatology,,"436 Clinic Rd, City173",+91-7271930746,4.4,
+PR2073,,,6554422145,"428 Health Ave, City115",+91-7394286198,3.2,KA
+PR2074,Dr. Noah Smith,General Practice,4143505110,"545 Medical Park, City102",+91-7067843621,2.9,GJ
+PR2075,Dr. Mary Patel,Dermatology,7414320172,"915 Clinic Rd, City89",+91-7967227624,4.2,MH
+PR2076,Dr. Sara Johnson,Radiology,2968897085,"79 Clinic Rd, City96",+91-6164443046,2.9,
+PR2077,Dr. Asha Smith,,4115565294,"346 Medical Park, City192",+91-7297019898,,KA
+PR2078,Dr. Raj Chen,Dermatology,4792135573,"857 Clinic Rd, City30",,3.0,DL
+PR2079,Dr. Wei Brown,,4409016344,,+91-8462459440,3.7,
+PR2080,Dr. Sara Garcia,General Practice,,"284 Medical Park, City172",+91-6196461174,4.0,MH
+PR2081,Dr. Asha Chen,General Practice,5316661404,"213 Health Ave, City107",+91-8822707426,2.8,DL
+PR2082,Dr. Ola Brown,Neurology,2366484208,"227 Health Ave, City5",,3.3,KA
+PR2083,Dr. Noah Chen,Dermatology,8846797777,"603 Clinic Rd, City163",+91-8556496651,3.3,TN
+PR2084,Dr. Ola Johnson,Cardiology,6767929435,"328 Clinic Rd, City114",,3.7,UP
+PR2085,Dr. Ola Gonzalez,Radiology,3996707622,,+91-7730606516,,WB
+PR2086,Dr. Noah Smith,Dermatology,9525283313,"86 Health Ave, City192",+91-8274579252,3.4,DL
+PR2087,Dr. Arjun Singh,Oncology,,"31 Health Ave, City160",+91-8512284810,2.9,DL
+PR2088,Dr. Noah Garcia,Oncology,9475504077,,+91-7008108568,3.4,GJ
+PR2089,Dr. Raj Garcia,Radiology,1530402737,"406 Health Ave, City55",+91-6475164113,3.9,MH
+PR2090,Dr. Vikram Patel,Neurology,7049530959,,+91-9867441540,4.0,DL
+PR2091,Dr. Arjun Singh,Dermatology,2684371781,"880 Clinic Rd, City127",+91-9250552312,3.7,WB
+PR2092,,Orthopedics,6057867851,"296 Health Ave, City137",+91-9564248627,3.3,TN
+PR2093,Dr. Asha Patel,Dermatology,4896741733,"393 Medical Park, City168",+91-7795725387,4.9,TN
+PR2094,Dr. Anita Kumar,Radiology,1962899942,"625 Medical Park, City129",+91-6345769830,4.0,
+PR2095,Dr. Fatima Kumar,General Practice,3619124771,,+91-8026853226,4.2,
+PR2096,Dr. John Brown,Neurology,8104374310,"566 Medical Park, City50",+91-9652049376,4.8,TN
+PR2097,Dr. Carlos Gonzalez,Orthopedics,6153038644,"136 Clinic Rd, City17",+91-9841614871,2.6,GJ
+PR2098,Dr. Ola Nguyen,Orthopedics,3754702956,"823 Medical Park, City85",+91-9745578500,,MH
+PR2099,Dr. Anita Nguyen,Dermatology,5133794489,"8 Medical Park, City9",+91-8929269047,4.2,WB
+PR2100,Dr. Liam Nguyen,Neurology,2654917886,"802 Clinic Rd, City67",+91-9793989568,4.3,KA
+PR2101,Dr. Priya Brown,,4069888953,"450 Clinic Rd, City186",+91-6256780070,3.2,TN
+PR2102,Dr. Vikram Kumar,General Practice,7184949643,"807 Health Ave, City27",+91-6626995385,4.6,WB
+PR2103,Dr. Vikram Brown,Neurology,4399975767,"740 Health Ave, City94",+91-7773362162,4.1,MH
+PR2104,Dr. Sara Gonzalez,Neurology,3072712577,"271 Health Ave, City85",+91-8757521784,4.2,TN
+PR2105,,Neurology,6411656874,"303 Medical Park, City114",+91-7420179083,4.5,UP
+PR2106,Dr. Wei Brown,,3553049385,"780 Health Ave, City38",+91-8241025018,3.2,MH
+PR2107,Dr. Sara Singh,Radiology,6545740371,"968 Medical Park, City41",+91-8437994930,4.1,TN
+PR2108,Dr. Priya Nguyen,Dermatology,,"762 Medical Park, City33",+91-6629324966,4.0,WB
+PR2109,Dr. Fatima Chen,Dermatology,1978900486,"872 Health Ave, City150",+91-7301188571,2.9,KA
+PR2110,Dr. Wei Singh,Dermatology,7514683531,"489 Medical Park, City44",,4.1,GJ
+PR2111,Dr. Vikram Johnson,General Practice,7542684407,,+91-6726368625,4.7,
+PR2112,,Oncology,9651063115,"970 Health Ave, City88",+91-6965616791,3.3,MH
+PR2113,Dr. Raj Chen,Radiology,4389907086,"666 Health Ave, City92",+91-8142287798,,UP
+PR2114,Dr. Sara Kumar,Neurology,,"760 Health Ave, City94",+91-8852906631,2.6,UP
+PR2115,Dr. Mary Singh,Radiology,5583579348,"567 Medical Park, City190",,4.7,WB
+PR2116,Dr. John Nguyen,Radiology,3246047970,,+91-6784624638,4.2,
+PR2117,Dr. Vikram Gonzalez,Orthopedics,,,+91-8370717381,3.2,UP
+PR2118,Dr. Anita Smith,Orthopedics,7539335524,"63 Health Ave, City59",+91-7047716866,4.0,GJ
+PR2119,Dr. Ola Nguyen,Cardiology,4356141519,"327 Medical Park, City19",+91-6843642521,3.7,TN
+PR2120,Dr. Mary Nguyen,Orthopedics,3531350085,"613 Clinic Rd, City77",+91-8445250621,,TN
+PR2121,Dr. Vikram Smith,Dermatology,9102530903,"797 Medical Park, City50",+91-8529467460,4.5,GJ
+PR2122,Dr. Arjun Nguyen,Cardiology,,"647 Health Ave, City85",+91-8178806762,3.7,DL
+PR2123,Dr. Asha Chen,General Practice,,"282 Medical Park, City144",+91-8160636035,3.3,TN
+PR2124,,Oncology,,"915 Medical Park, City121",+91-8129392953,2.9,KA
+PR2125,Dr. Arjun Garcia,Dermatology,,"948 Clinic Rd, City88",+91-8739686520,4.2,WB
+PR2126,Dr. Raj Gonzalez,Neurology,1995585447,"315 Medical Park, City79",+91-7374457648,,TN
+PR2127,Dr. Mary Chen,Radiology,3885733726,"332 Health Ave, City50",+91-9291651704,3.5,MH
+PR2128,Dr. Vikram Patel,Radiology,3845805571,"334 Medical Park, City122",+91-8806720883,4.0,TN
+PR2129,Dr. Arjun Chen,Orthopedics,9301499827,"484 Clinic Rd, City95",+91-6622712398,3.3,UP
+PR2130,Dr. Carlos Singh,Oncology,6617889740,"577 Clinic Rd, City196",+91-7791532400,2.5,TN
+PR2131,Dr. John Garcia,General Practice,2177711456,"839 Medical Park, City52",+91-6895969004,4.2,
+PR2132,Dr. Wei Singh,Cardiology,6677284463,"810 Clinic Rd, City84",+91-8396884514,3.9,
+PR2133,Dr. Arjun Gonzalez,Radiology,7455092839,,,3.1,DL
+PR2134,Dr. Priya Nguyen,Dermatology,7841626357,"975 Health Ave, City200",,3.5,UP
+PR2135,Dr. Ola Gonzalez,General Practice,7812309318,,+91-8747184197,3.4,GJ
+PR2136,Dr. Carlos Nguyen,,5771840898,"138 Medical Park, City19",+91-7393912355,4.9,UP
+PR2137,Dr. Fatima Patel,Neurology,5672946587,"252 Clinic Rd, City147",+91-8347565316,4.4,DL
+PR2138,Dr. Liam Johnson,Neurology,1093852809,"791 Health Ave, City180",,4.3,WB
+PR2139,Dr. Carlos Nguyen,Dermatology,4799264604,"189 Clinic Rd, City120",+91-6977887953,3.7,DL
+PR2140,Dr. Anita Chen,,5005835472,"144 Health Ave, City165",+91-7764282168,3.6,WB
+PR2141,Dr. Ola Kumar,Neurology,3269449477,,+91-6069583920,3.9,KA
+PR2142,Dr. Liam Singh,Neurology,7609136010,"290 Medical Park, City86",+91-8724614926,2.7,KA
+PR2143,Dr. Noah Smith,Radiology,4352600847,"545 Health Ave, City132",+91-9634827979,4.6,GJ
+PR2144,,Radiology,8232523707,"838 Clinic Rd, City120",+91-7938269696,4.7,UP
+PR2145,Dr. Raj Singh,Cardiology,,"465 Medical Park, City200",+91-8974634928,4.3,TN
+PR2146,Dr. Sara Kumar,Oncology,7763447547,,,2.5,DL
+PR2147,Dr. Fatima Patel,General Practice,4674665074,"599 Medical Park, City197",,3.8,UP
+PR2148,Dr. Asha Gonzalez,Neurology,,"915 Medical Park, City148",+91-6655432544,3.0,MH
+PR2149,Dr. Anita Chen,Orthopedics,1433347157,"547 Medical Park, City11",+91-9347769038,2.8,DL
+PR2150,,Neurology,1896820343,,+91-7164270893,3.1,MH
+PR2151,Dr. Arjun Singh,Cardiology,2888243482,"855 Clinic Rd, City7",+91-7906761288,4.7,WB
+PR2152,Dr. Priya Gonzalez,Oncology,,"450 Clinic Rd, City51",+91-6883183843,4.4,GJ
+PR2153,Dr. Vikram Smith,Cardiology,5162870367,"519 Medical Park, City186",+91-8218334233,2.8,WB
+PR2154,Dr. Anita Smith,Oncology,9569995483,"426 Health Ave, City54",+91-6389944281,4.5,DL
+PR2155,Dr. Ola Chen,Radiology,2962601437,"8 Clinic Rd, City108",+91-7719311249,,KA
+PR2156,Dr. Carlos Singh,General Practice,4592888910,"445 Medical Park, City77",,,KA
+PR2157,Dr. Asha Garcia,Oncology,9436322799,"748 Medical Park, City83",,2.9,
+PR2158,Dr. Raj Brown,Cardiology,1668976864,"712 Clinic Rd, City196",+91-6167464267,2.7,WB
+PR2159,Dr. Anita Chen,General Practice,7947345952,,+91-6740538233,2.9,GJ
+PR2160,Dr. Raj Patel,,1697389798,"510 Health Ave, City79",+91-7733681996,4.1,WB
+PR2161,Dr. Wei Brown,General Practice,5405906442,"30 Clinic Rd, City9",+91-9156589793,4.7,TN
+PR2162,Dr. John Johnson,,1729028760,"103 Health Ave, City90",+91-9853396111,3.1,TN
+PR2163,Dr. Mary Smith,,2891571587,"878 Medical Park, City164",+91-6003099374,3.3,TN
+PR2164,Dr. Sara Chen,Orthopedics,7614189891,"980 Medical Park, City172",+91-9076550759,2.7,TN
+PR2165,Dr. Priya Brown,Orthopedics,1540448538,"528 Health Ave, City37",+91-6968737773,,UP
+PR2166,,General Practice,1451951731,"232 Clinic Rd, City48",+91-9135456142,,DL
+PR2167,Dr. Priya Nguyen,Dermatology,4863461116,"336 Clinic Rd, City96",+91-8839840224,2.9,UP
+PR2168,Dr. Sara Kumar,Dermatology,1782424812,"147 Medical Park, City9",+91-9587925887,4.5,MH
+PR2169,,Cardiology,,"496 Clinic Rd, City49",+91-8700301424,4.7,
+PR2170,Dr. Fatima Nguyen,Orthopedics,2889197205,"763 Clinic Rd, City168",+91-9300729835,3.8,
+PR2171,Dr. Carlos Patel,General Practice,9040054693,"791 Medical Park, City117",+91-8848628797,2.7,
+PR2172,Dr. Carlos Johnson,General Practice,6864443882,,,2.7,TN
+PR2173,Dr. Vikram Smith,Cardiology,2270079541,"895 Clinic Rd, City79",+91-7943751120,3.6,
+PR2174,Dr. Vikram Johnson,Orthopedics,,"861 Medical Park, City57",+91-9332513925,2.5,UP
+PR2175,Dr. Priya Singh,Radiology,3255052081,"820 Medical Park, City93",+91-8316951071,3.1,GJ
+PR2176,Dr. Raj Singh,,3655081209,,,4.9,GJ
+PR2177,Dr. Fatima Gonzalez,General Practice,7016703050,,+91-9838603365,3.7,DL
+PR2178,Dr. Raj Chen,,5616533577,"726 Medical Park, City172",+91-7338334796,3.0,UP
+PR2179,,Cardiology,2762549480,"148 Clinic Rd, City42",,4.9,MH
+PR2180,Dr. Fatima Patel,Dermatology,7094598442,"606 Health Ave, City64",+91-9583415896,3.4,MH
+PR2181,Dr. Wei Patel,Oncology,1652174484,"455 Health Ave, City173",+91-7183135932,,KA
+PR2182,Dr. Asha Smith,Radiology,3023399168,,+91-9531495494,2.8,UP
+PR2183,Dr. Noah Nguyen,Orthopedics,5243253355,"391 Clinic Rd, City29",+91-8692507842,3.7,GJ
+PR2184,Dr. Raj Nguyen,Neurology,2250294737,"536 Health Ave, City23",,4.0,GJ
+PR2185,Dr. Vikram Singh,Orthopedics,8150736635,"857 Medical Park, City111",+91-7811076569,2.6,KA
+PR2186,,Neurology,,"430 Medical Park, City65",+91-7531848603,2.7,KA
+PR2187,Dr. Priya Nguyen,Orthopedics,7810890924,"227 Medical Park, City112",+91-8858852589,3.2,WB
+PR2188,Dr. Vikram Nguyen,Radiology,7724287042,,+91-7643199628,2.6,KA
+PR2189,Dr. Noah Smith,Radiology,1407650680,"990 Health Ave, City93",+91-8491605278,4.2,GJ
+PR2190,Dr. Fatima Garcia,Dermatology,4196786163,,+91-9660313015,3.7,WB
+PR2191,Dr. Liam Kumar,Oncology,8634866023,"686 Health Ave, City56",+91-8434945809,3.0,UP
+PR2192,Dr. Carlos Smith,General Practice,9249213523,"822 Health Ave, City187",+91-7961181581,4.6,DL
+PR2193,Dr. Carlos Singh,General Practice,6363130326,"457 Health Ave, City84",+91-7967973649,4.2,UP
+PR2194,Dr. Wei Patel,Orthopedics,8079338369,"759 Clinic Rd, City193",+91-7496964209,4.5,MH
+PR2195,Dr. Vikram Nguyen,Neurology,5676658689,"361 Medical Park, City138",+91-9177671584,,MH
+PR2196,Dr. Carlos Chen,Cardiology,9978339137,"416 Clinic Rd, City160",+91-8135426358,4.1,WB
+PR2197,Dr. Fatima Gonzalez,General Practice,7379918941,"346 Clinic Rd, City93",+91-9241716107,2.9,MH
+PR2198,Dr. Carlos Kumar,,6059076790,"634 Medical Park, City20",+91-6853064745,2.7,UP
+PR2199,Dr. Noah Garcia,Neurology,,"734 Clinic Rd, City137",+91-7519557927,3.5,TN
+PR2200,Dr. Mary Chen,Radiology,5648063448,"231 Clinic Rd, City11",+91-7056147898,3.9,UP
+PR2201,Dr. Wei Kumar,Oncology,1940491165,"897 Health Ave, City113",+91-8782688061,4.5,MH
+PR2202,Dr. John Chen,,,,+91-9598885044,,GJ
+PR2203,Dr. Liam Brown,Orthopedics,2770916225,"869 Medical Park, City149",+91-7716341242,4.1,TN
+PR2204,Dr. Priya Chen,Dermatology,8738351331,"442 Clinic Rd, City94",,4.8,MH
+PR2205,Dr. Carlos Johnson,,3977267325,"330 Medical Park, City64",,3.8,MH
+PR2206,Dr. Mary Johnson,Dermatology,2346406906,"827 Medical Park, City59",+91-9092832771,3.4,UP
+PR2207,Dr. Asha Johnson,Neurology,5230873857,"477 Clinic Rd, City148",+91-9593227236,2.6,GJ
+PR2208,,Radiology,2873397116,"977 Health Ave, City6",+91-8405004427,3.6,UP
+PR2209,Dr. John Singh,Oncology,1635140305,"699 Clinic Rd, City17",+91-9087517968,3.2,DL
+PR2210,Dr. Sara Kumar,Dermatology,7862234657,"442 Medical Park, City196",+91-6572763028,5.0,MH
+PR2211,Dr. Asha Nguyen,,,"339 Health Ave, City146",+91-9429172084,4.7,TN
+PR2212,Dr. Raj Johnson,Dermatology,7815565318,"884 Health Ave, City157",+91-6227508365,4.3,DL
+PR2213,,Neurology,5197702821,"629 Health Ave, City136",+91-7776877098,4.3,UP
+PR2214,Dr. Anita Gonzalez,Radiology,5250257476,"856 Health Ave, City8",+91-8789181877,4.8,UP
+PR2215,Dr. Mary Singh,,8238536261,"825 Clinic Rd, City98",+91-8991079901,3.7,
+PR2216,Dr. Carlos Patel,Cardiology,,"182 Medical Park, City111",+91-9775553439,3.1,
+PR2217,Dr. Raj Chen,Oncology,1861601765,,+91-6350333629,3.3,WB
+PR2218,Dr. Mary Johnson,General Practice,3603434915,"571 Health Ave, City175",,2.7,KA
+PR2219,Dr. Liam Kumar,Cardiology,6698818860,"314 Health Ave, City146",+91-8419632965,3.4,
+PR2220,,,7961593935,,,2.7,UP
+PR2221,Dr. Sara Patel,Radiology,4315644355,"520 Health Ave, City114",,4.1,
+PR2222,Dr. Sara Smith,Neurology,9307531768,"958 Clinic Rd, City28",+91-7499175612,4.2,GJ
+PR2223,Dr. Liam Patel,Cardiology,3137394980,"618 Health Ave, City157",+91-9951366237,3.3,TN
+PR2224,Dr. Sara Johnson,Neurology,3381395514,"347 Health Ave, City94",+91-6607228395,3.1,WB
+PR2225,Dr. Ola Gonzalez,Neurology,2736389560,"367 Health Ave, City123",+91-9482820592,4.6,UP
+PR2226,Dr. Priya Brown,Cardiology,9980576769,"671 Clinic Rd, City135",+91-8418052387,3.9,GJ
+PR2227,Dr. Liam Garcia,Neurology,6157964035,"329 Health Ave, City115",,3.0,UP
+PR2228,Dr. Fatima Garcia,Oncology,2619490213,"503 Health Ave, City126",+91-6448044549,3.3,TN
+PR2229,Dr. Noah Garcia,General Practice,,"852 Health Ave, City49",+91-6383057407,,GJ
+PR2230,Dr. Priya Brown,Radiology,9795904190,"29 Health Ave, City78",+91-7653138906,3.0,GJ
+PR2231,Dr. John Garcia,Dermatology,4647375561,,+91-9002968632,2.6,MH
+PR2232,,Orthopedics,4832640177,"730 Clinic Rd, City19",,3.0,MH
+PR2233,Dr. Noah Brown,Cardiology,2638481615,,+91-9969890826,,MH
+PR2234,Dr. Asha Singh,Orthopedics,9534467201,"847 Health Ave, City96",+91-9940991962,4.6,KA
+PR2235,Dr. Raj Patel,Radiology,8166293834,"904 Clinic Rd, City175",+91-8450449489,4.3,UP
+PR2236,Dr. Wei Gonzalez,Dermatology,6465839535,"707 Health Ave, City107",+91-9537141447,3.5,DL
+PR2237,Dr. Vikram Gonzalez,Neurology,8641714687,"260 Medical Park, City3",+91-8690956330,,KA
+PR2238,Dr. Priya Nguyen,Orthopedics,1957668578,"653 Health Ave, City30",+91-6682572659,4.8,TN
+PR2239,Dr. Mary Patel,Radiology,2406080225,"967 Medical Park, City66",+91-8924467295,4.3,UP
+PR2240,Dr. Fatima Chen,Radiology,6525213275,,,4.4,TN
+PR2241,Dr. Vikram Gonzalez,Cardiology,3138752908,"131 Medical Park, City10",,3.7,KA
+PR2242,Dr. Anita Kumar,Neurology,2666721542,"86 Medical Park, City18",+91-7038316265,3.6,DL
+PR2243,Dr. Ola Patel,Oncology,9766251190,,+91-6811617487,4.4,UP
+PR2244,Dr. Carlos Kumar,Radiology,5950854021,"881 Clinic Rd, City45",,,UP
+PR2245,Dr. John Garcia,Oncology,1273372018,,,4.1,TN
+PR2246,Dr. John Nguyen,,,"617 Medical Park, City74",,2.9,
+PR2247,Dr. Carlos Kumar,Cardiology,,"420 Medical Park, City137",,4.0,MH
+PR2248,Dr. Priya Singh,General Practice,1165055708,"924 Health Ave, City176",+91-7003570520,2.5,KA
+PR2249,Dr. Noah Kumar,Neurology,,"878 Health Ave, City196",+91-8698470384,2.6,GJ
